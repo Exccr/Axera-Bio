@@ -14,6 +14,11 @@ Cari `strings: ["Developers.", "Blogger.", "People."]` untuk merubah text menget
 
 Axera bio created by <a href="https://siapa.me">Rud Az</a>.
 
+## Demo Web
+
+<a href="https://exccr.github.io/Axera-Bio/" target="_blank">Click Me</a>
+
+
 ## Donate
 
 Dukung saya di <a href="https://trakteer.id/RudAz" target="_blank">Trakteer</a>
